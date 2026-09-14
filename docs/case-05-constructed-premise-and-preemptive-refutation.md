@@ -4,7 +4,7 @@
 **Reported model label:** Opus 5, as identified in the supplied transcription; exact selector label not independently confirmed.  
 **Reported exchange date:** September 14, 2026, as identified in the supplied transcription.  
 **Status:** Preliminary case involving one user, one conversation, and two related instances. No independent replication.  
-**Quotation status:** Checked against the supplied assistant-produced transcription. Verification against the original Claude chat remains pending.
+**Quotation status:** Manually verified by the user against the original Claude chat. The transcription matches word for word, including typographical errors such as “doesn”.
 
 ## Overview
 
@@ -18,7 +18,7 @@ The central finding is **recurrence of premise substitution after acknowledgment
 
 ## Source and context
 
-The source is the user-supplied document `Conversation-Transcript-2026-09-14.docx`. Its opening note identifies it as a transcription produced by Claude from its conversation context and calls for comparison with the original record. This case preserves that provenance; Claude's acknowledgment of an error is not independent verification of either the transcript or the analysis.
+The source is the user-supplied document `Conversation-Transcript-2026-09-14.docx`. Its opening note identifies it as a transcription produced by Claude from its conversation context and calls for comparison with the original record. The user has since manually checked the selected transcription against the original Claude chat and confirms a word-for-word match, including typographical errors such as “doesn”. This case preserves the source's provenance; Claude's acknowledgment of an error is not treated as independent verification of either the transcript or the analysis.
 
 The twelve messages below are consecutive in that document. No messages or sentences within the selected span have been omitted. Paragraph spacing has been adjusted for Markdown readability; wording, punctuation, and typographical errors are retained. In particular, message 7 immediately follows message 6.
 
@@ -168,7 +168,7 @@ This is preliminary evidence from a second assistant platform. It is not a contr
 
 ## Limitations and conditions for revision
 
-- The case uses an assistant-produced transcription. Wording, punctuation, message order, and relevant context must be compared with the original chat before the passages are marked verified against that chat. The user has been given the twelve messages for that check; confirmation has not yet been recorded.
+- The source document was produced by Claude, but the user has manually verified the selected passages against the original Claude chat and reports a word-for-word match, including typographical errors such as “doesn”. That verification establishes the quoted text; it is not an independent replication of the behavior.
 - The reported date and model label come from the transcription. The exact model selector label, available settings, and complete applicable instructions have not been independently confirmed.
 - The two instances belong to one conversation with one user. They are related observations, not independent trials or a prevalence estimate.
 - The pattern descriptions concern observable language and the progression of the exchange. They do not establish hidden motives, a training cause, corporate steering, or inevitability.
@@ -180,4 +180,3 @@ Further testing should track whether an answer changes after new evidence, an ex
 ## Related material for separate analysis
 
 The supplied transcription also records later exchanges about narrowing criticism of company conduct into criticism of a public post. Those passages remain material for separate analysis. They are not counted among the two instances examined here, and Claude's later descriptions of them are not treated as independent confirmation.
-
