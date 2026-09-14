@@ -1,7 +1,7 @@
 # Case Study 5: Constructed Premises and Recurrence After Acknowledgment
 
 **System:** Claude (Anthropic)  
-**Reported model label:** Opus 5, as identified in the supplied transcription; exact selector label not independently confirmed.  
+**Model selected:** Opus 5 High, confirmed from the conversation's visible model selector.  
 **Reported exchange date:** September 14, 2026, as identified in the supplied transcription.  
 **Status:** Preliminary case involving one user, one conversation, and two related instances. No independent replication.  
 **Quotation status:** Manually verified by the user against the original Claude chat. The transcription matches word for word, including typographical errors such as “doesn”.
@@ -169,7 +169,7 @@ This is preliminary evidence from a second assistant platform. It is not a contr
 ## Limitations and conditions for revision
 
 - The source document was produced by Claude, but the user has manually verified the selected passages against the original Claude chat and reports a word-for-word match, including typographical errors such as “doesn”. That verification establishes the quoted text; it is not an independent replication of the behavior.
-- The reported date and model label come from the transcription. The exact model selector label, available settings, and complete applicable instructions have not been independently confirmed.
+- The conversation's visible model selector identifies the model as Opus 5 High. The reported exchange date comes from the transcription; the available settings and complete applicable instructions have not been independently confirmed.
 - The two instances belong to one conversation with one user. They are related observations, not independent trials or a prevalence estimate.
 - The pattern descriptions concern observable language and the progression of the exchange. They do not establish hidden motives, a training cause, corporate steering, or inevitability.
 - The interpretation should change if the original conversation materially differs, if omitted context supplies the alleged evaluation rules or qualifying conditions, or if a substantive correction justifies the retraction.
